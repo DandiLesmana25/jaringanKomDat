@@ -1,0 +1,48 @@
+================pertam buat vlan (switch)
+
+
+enable
+conf t
+
+
+
+int range fa 0/1-4
+
+vlan 10
+name fik
+
+
+kemudian exit 
+
+vlan 20
+dosen
+
+int range fa 0/1-4
+
+
+
+fa 0/1-4
+
+======================2) SETTING IP ADDRES DI ROUTER
+
+
+no shut
+
+
+
+
+=============================buat dhcp disetiap router  
+
+
+
+
+================================ospf lantai 1 dan 
+
+
+
+
+
+
+====================buat routing bgp untuk nyambungin gedung a dan b
+
+
